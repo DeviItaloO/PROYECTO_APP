@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T2_Italo_Espinoza</string>
+    <string name="listado_de_productos">Listado de Productos</string>
+    <string name="button_filtrar">Mostrar</string>
+</resources>
