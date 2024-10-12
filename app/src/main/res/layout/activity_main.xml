@@ -26,8 +26,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="10dp"
-        />
+        android:layout_height="10dp"/>
 
     <Spinner
         android:id="@+id/spnProductos"
@@ -37,7 +36,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="10dp" />
+        android:layout_height="10dp"/>
 
     <Button
         android:id="@+id/btnFiltrar"
@@ -49,7 +48,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="10dp" />
+        android:layout_height="10dp"/>
 
     <TextView
         android:id="@+id/txtResultado"
